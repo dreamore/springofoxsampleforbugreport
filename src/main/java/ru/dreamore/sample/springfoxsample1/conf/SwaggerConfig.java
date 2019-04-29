@@ -1,4 +1,4 @@
-package ru.dreamore.sample.springfoxsample1;
+package ru.dreamore.sample.springfoxsample1.conf;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
